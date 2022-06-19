@@ -18,6 +18,6 @@ A Molotov do lado dos Terrorista é $200 mais barata que a do lado dos contra te
 <p> <img src="./images/molotr.png"></p>
 Enquanto a Granada incendiária do lado dos Coutra Terroritas tem 73,75% de penetração de colete.
 <p> <img src="./images/moloct.png"></p>
-### É mais rápido de mudar pra arma depois de usar molotov que granada incendiária
-###A Skin mais de faca mais cara do csgo é a Butterfly Knife Doppler Sapphire chega a cerca de R$ 73 mil
+### É mais rápido de mudar pra arma depois de usar molotov do que granada incendiária
+### A Skin mais de faca mais cara do csgo é a Butterfly Knife Doppler Sapphire chega a cerca de R$ 73 mil
 <p> <img src="./images/ButCara.webp"></p>
