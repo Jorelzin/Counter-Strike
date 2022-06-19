@@ -15,8 +15,8 @@ Um rádio na posição da cozinha no mapa Train toca o tema de TeamFortress 2.
 <p> <img src="./images/radio.jpeg"></p>
 ### Molotov
 A Molotov do lado dos Terrorista é $200 mais barata que a do lado dos contra terroristas além de ser mais forte possuindo 90% de penetração de colete.
-<p> <img src="./images/molotovtr.jpeg"></p>
+<p> <img src="./images/molotr.jpeg"></p>
 Enquanto a Granada incendiária do lado dos Coutra Terroritas tem 73,75% de penetração de colete.
-<p> <img src="./images/nadect.jpeg"></p>
+<p> <img src="./images/moloct.jpeg"></p>
 ### É mais rápido de mudar pra arma depois de usar molotov que granada incendiária
-<p> <img src="./images/butcara.jpeg"></p>
+<p> <img src="./images/ButCara.jpeg"></p>
