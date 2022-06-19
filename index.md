@@ -14,6 +14,7 @@ Em homenagem a uma das jogadas mais icônicas do CS, a Valve colocou no mapa Mir
 Um rádio na posição da cozinha no mapa Train toca o tema de TeamFortress 2.
 <p> <img src="./images/radio.jpeg"></p>
 ### Gaulês, um Streamer de CSGO, atingiu o segundo lugar na plataforma de streaming, Twitch em 2021, de acordo com o Streams Charts, Gaulês teve 165.39 milhões de horas assistidas no período de um ano, contra 274.96 milhões de xQc.
+<p> <img src="./images/gaules.png"></p>
 ### Molotov
 A Molotov do lado dos Terrorista é $200 mais barata que a do lado dos contra terroristas além de ser mais forte possuindo 90% de penetração de colete.
 <p> <img src="./images/molotr.png"></p>
