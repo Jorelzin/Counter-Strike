@@ -3,13 +3,13 @@
 
 ### Origem do CS
 Counter-Strike nasceu como um mod do jogo Half-Life, icônico FPS também da Valve. 
-<p> <img src="./imagens/halflife.png"></p>
+<p> <img src="./images/halflife.png"></p>
 ### Dust 2
 Para homenagear o jogo "irmão", CS:GO traz uma referência na Dust2. No spawn dos terroristas, na parede em direção ao meio, existe uma inscrição em persa que traduzida para português significa "Freeman esteve aqui". Trata-se de uma referência ao protagonista da série Half-Life, Gordon Freeman.
-<p> <img src="./imagens/Dust2.webp"></p>
+<p> <img src="./images/Dust2.webp"></p>
 ### Grafite na Miragem
 Em homenagem a uma das jogadas mais icônicas do CS, a Valve colocou no mapa Miragem (o mapa mais jogado), um grafite na posição do tapete/van, esse se refere a jogada do Jogador brasileiro Coldzera em um campeonato profissional.
-<p> <img src="./imagens/mirage.webp"></p>
+<p> <img src="./images/mirage.webp"></p>
 ### Radio na Train
 Um rádio na posição da cozinha no mapa Train toca o tema de TeamFortress 2.
-<p> <img src="./imagens/radio.webp"></p>
+<p> <img src="./images/radio.webp"></p>
