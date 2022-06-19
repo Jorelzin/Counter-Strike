@@ -13,6 +13,7 @@ Em homenagem a uma das jogadas mais icônicas do CS, a Valve colocou no mapa Mir
 ### Radio na Train
 Um rádio na posição da cozinha no mapa Train toca o tema de TeamFortress 2.
 <p> <img src="./images/radio.jpeg"></p>
+### Gaulês, um Streamer de CSGO, atingiu o segundo lugar na plataforma de streaming, Twitch em 2021, de acordo com o Streams Charts, Gaulês teve 165.39 milhões de horas assistidas no período de um ano, contra 274.96 milhões de xQc.
 ### Molotov
 A Molotov do lado dos Terrorista é $200 mais barata que a do lado dos contra terroristas além de ser mais forte possuindo 90% de penetração de colete.
 <p> <img src="./images/molotr.png"></p>
@@ -21,3 +22,5 @@ Enquanto a Granada incendiária do lado dos Coutra Terroritas tem 73,75% de pene
 ### É mais rápido de mudar pra arma depois de usar molotov do que granada incendiária
 ### A Skin mais de faca mais cara do csgo é a Butterfly Knife Doppler Sapphire chega a cerca de R$ 73 mil
 <p> <img src="./images/ButCara.webp"></p>
+### Se trantando de itens de colecionador, o mais caro ja estimado seria a faca Karambit Case Hardened, estipulasse que seu valor chegue aos 2 milhoes de dolares, convertendo 10307838,00 de reais 
+<p> <img src="./images/karambit.png"></p>
