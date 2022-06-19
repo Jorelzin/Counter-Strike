@@ -12,4 +12,4 @@ Em homenagem a uma das jogadas mais icônicas do CS, a Valve colocou no mapa Mir
 <p> <img src="./images/mirage.webp"></p>
 ### Radio na Train
 Um rádio na posição da cozinha no mapa Train toca o tema de TeamFortress 2.
-<p> <img src="./images/radio.webp"></p>
+<p> <img src="./images/radio.jpeg"></p>
